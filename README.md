@@ -97,7 +97,8 @@ Contributions are welcome! Feel free to submit a **Pull Request** or raise an **
 ---
 
 ## 📧 Contact  
-📌 **Author:**  Manish Devdi 
+📌 **Author:**  Manish Devdi   
+
 📌 **GitHub:**  [manishdevdi](https://github.com/manishdevdi)  
 📌 **LinkedIn:** [Manish Devdi](https://www.linkedin.com/in/manish-devdi-63bb78234/)  
 
