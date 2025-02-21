@@ -48,8 +48,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-4️⃣ **Execute the Notebook Cells** 📈  
-
 ---
 
 ## 🏆 Model Performance  
@@ -59,9 +57,11 @@ jupyter notebook
 📌 **Model Accuracy Results:**  
 ✅ **Decision Tree Accuracy:** 98.13%  
 ✅ **Random Forest Accuracy:** 97.42%  
+---
 
 📌 **Classification Report:**
-
+### Classification Report of Decision Tree Classifier:
+```
               precision    recall  f1-score   support
 
            0       0.97      0.97      0.97       318
@@ -70,3 +70,36 @@ jupyter notebook
     accuracy                           0.98       854
    macro avg       0.98      0.98      0.98       854
 weighted avg       0.98      0.98      0.98       854
+```
+### Classification Report of Decision Tree Classifier:
+```
+              precision    recall  f1-score   support
+
+           0       0.97      0.96      0.97       318
+           1       0.98      0.98      0.98       536
+
+    accuracy                           0.97       854
+   macro avg       0.97      0.97      0.97       854
+weighted avg       0.97      0.97      0.97       854
+```
+---
+
+## 💡 Future Enhancements  
+🔹 Implement **Hyperparameter Tuning** for better accuracy  
+🔹 Deploy as a **Web App** using Flask/Django  
+🔹 Introduce **Explainable AI (XAI)** for better model interpretability  
+
+---
+
+## 🤝 Contributing  
+Contributions are welcome! Feel free to submit a **Pull Request** or raise an **Issue**.
+
+---
+
+## 📧 Contact  
+📌 **Author:** Manish Devdi 
+📌 **GitHub:** [manishdevdi](https://github.com/manishdevdi)  
+📌 **LinkedIn:** [Manish Devdi]((https://www.linkedin.com/in/manish-devdi-63bb78234/)  
+
+⭐ **If you like this project, give it a star!** ⭐  
+
