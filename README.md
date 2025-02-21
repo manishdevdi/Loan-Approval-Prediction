@@ -59,3 +59,14 @@ jupyter notebook
 📌 **Model Accuracy Results:**  
 ✅ **Decision Tree Accuracy:** 98.13%  
 ✅ **Random Forest Accuracy:** 97.42%  
+
+📌 **Classification Report:**
+
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       318
+           1       0.99      0.99      0.99       536
+
+    accuracy                           0.98       854
+   macro avg       0.98      0.98      0.98       854
+weighted avg       0.98      0.98      0.98       854
