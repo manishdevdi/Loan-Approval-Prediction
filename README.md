@@ -2,7 +2,6 @@
 
 ## 📚 Project Overview  
 Loan Approval Prediction is a **machine learning-based solution** that predicts whether a loan applicant is likely to be approved based on various financial and personal details. This project leverages **data science techniques** to assist financial institutions in making informed lending decisions.
-
 ---
 
 ## 🛠️ Tech Stack  
