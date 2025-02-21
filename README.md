@@ -29,3 +29,33 @@ The dataset includes:
 ✔️ Dropped unnecessary columns (e.g., **loan_id**)  
 ✔️ Visualized distributions of Income, Loan Amount, and Credit Score  
 ✔️ Analyzed correlation between different features and Loan Approval  
+
+## 🚀 How to Run the Project  
+
+1️⃣ **Clone the Repository**  
+```sh
+git clone https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects.git
+cd "Loan Approval Prediction"
+```
+
+2️⃣ **Install Dependencies**  
+```sh
+pip install -r requirements.txt
+```
+
+3️⃣ **Run the Jupyter Notebook**  
+```sh
+jupyter notebook
+```
+
+4️⃣ **Execute the Notebook Cells** 📈  
+
+---
+
+## 🏆 Model Performance  
+✔️ **Confusion Matrix** - Evaluates prediction errors  
+✔️ **Classification Report** - Displays Precision, Recall, F1-score  
+
+📌 **Model Accuracy Results:**  
+✅ **Decision Tree Accuracy:** 98.13%  
+✅ **Random Forest Accuracy:** 97.42%  
