@@ -55,8 +55,8 @@ jupyter notebook
 ✔️ **Classification Report** - Displays Precision, Recall, F1-score  
 
 ## 📌 Model Accuracy Results:  
-✅ **Decision Tree Accuracy**: 98.13%  
-✅ **Random Forest Accuracy**: 97.42%  
+✅ Decision Tree Accuracy: 98.13%  
+✅ Random Forest Accuracy: 97.42%  
 ---
 
 ## 📌 Classification Report:
@@ -98,6 +98,7 @@ Contributions are welcome! Feel free to submit a **Pull Request** or raise an **
 
 ## 📧 Contact  
 📌 **Author:** Manish Devdi 
+
 📌 **GitHub:** [manishdevdi](https://github.com/manishdevdi)  
 📌 **LinkedIn:** [Manish Devdi](https://www.linkedin.com/in/manish-devdi-63bb78234/)  
 
