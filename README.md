@@ -14,8 +14,6 @@ Loan Approval Prediction is a **machine learning-based solution** that predicts 
 ---
 
 ## 📂 Dataset  
-🔹 **Download the dataset here:** [Loan Approval Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)  
-
 The dataset includes:  
 ✅ Applicant’s Income & Credit History  
 ✅ Loan Amount & Purpose  
@@ -23,6 +21,8 @@ The dataset includes:
 ✅ Property Area  
 
 🔹 **Target Variable:** Loan Approval Status (Approved/Not Approved)  
+🔹 **Download the dataset here:** [Loan Approval Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)  
+
 
 ---
 
