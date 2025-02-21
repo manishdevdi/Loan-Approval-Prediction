@@ -20,9 +20,8 @@ The dataset includes:
 ✅ Employment & Marital Status  
 ✅ Property Area  
 
-🔹 **Target Variable:** Loan Approval Status (Approved/Not Approved)  
 🔹 **Download the dataset here:** [Loan Approval Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)  
-
+🔹 **Target Variable:** Loan Approval Status (Approved/Not Approved)  
 
 ---
 
