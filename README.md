@@ -55,8 +55,8 @@ jupyter notebook
 ✔️ **Classification Report** - Displays Precision, Recall, F1-score  
 
 📌 **Model Accuracy Results:**  
-✅ **Decision Tree Accuracy:** 98.13%  
-✅ **Random Forest Accuracy:** 97.42%  
+### ✅ Decision Tree Accuracy: 98.13%  
+### ✅ Random Forest Accuracy: 97.42%  
 ---
 
 📌 **Classification Report:**
