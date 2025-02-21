@@ -34,7 +34,7 @@ The dataset includes:
 
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/SUKHMAN-SINGH-1612/Data-Science-Projects.git
+https://github.com/manishdevdi/Loan-Approval-Prediction.git
 cd "Loan Approval Prediction"
 ```
 
