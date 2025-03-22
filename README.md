@@ -6,7 +6,7 @@ Loan Approval Prediction is a **machine learning-based solution** that predicts 
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack  
 🔹 **Programming Language:** Python 🐍  
 🔹 **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
 🔹 **Machine Learning Models:** Decision Tree, Random Forest  
